@@ -15,7 +15,7 @@ export default class Layout extends React.Component {
         <Link to="archives" activeClassName="test"><button class="btn btn-success">archives</button></Link>
         <Link to="settings" class="btn btn-primary">settings</Link>
         <button class="btn btn-danger" onClick={this.navigate.bind(this)}>Featured</button>
-    </div>
+      </div>
     );
   }
 }
