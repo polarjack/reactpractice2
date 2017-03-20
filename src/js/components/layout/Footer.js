@@ -1,6 +1,5 @@
 import React from "react";
 
-
 export default class Footer extends React.Component {
   render() {
     return (
@@ -14,4 +13,3 @@ export default class Footer extends React.Component {
     );
   }
 }
-Contact GitHub API Training Shop Blog About
